@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "a Human",
+  name: "Desmond Obisi",
 };
 const background = {
   // Options: Snow or Particle
@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "Desmond is a software developer that loves building next gen digital solutions on the web. I have been building for the web these past three years with technologies like JavaScript (React JS, Gatsby, Express and Node JS), SQL, MongoDB, GraphQL and Cloud Services like AWS to create innovative solutions. I currently work with Huawei as an automation software engineer where I lead a team of engineers building and maintaining applications for automating process and optimizing work deliverability. ",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -38,6 +38,10 @@ const skillsBar = [
     faClass: "fab fa-js",
   },
   {
+    name: "React JS",
+    faClass: "fab fa-react",
+  },
+  {
     name: "SASS",
     faClass: "fab fa-sass",
   },
@@ -46,19 +50,7 @@ const skillsBar = [
     faClass: "fab fa-node",
   },
   {
-    name: "Python",
-    faClass: "fab fa-python",
-  },
-  {
-    name: "Java",
-    faClass: "fab fa-java",
-  },
-  {
-    name: "PHP",
-    faClass: "fab fa-php",
-  },
-  {
-    name: "Database",
+    name: "SQL",
     faClass: "fas fa-database",
   },
   {
